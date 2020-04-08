@@ -21,3 +21,11 @@ Original licence text:
     Citations may be made from such material without prior permission, provided the source is always acknowledged.
     
     The above mentioned permissions DO NOT apply to content supplied by third parties. Therefore, for documents where the copyright lies with a third party, permission for reproduction must be obtained from the copyright holder.
+
+
+Data comes from the following locations:
+- csv: https://opendata.ecdc.europa.eu/covid19/casedistribution/csv
+- json: https://opendata.ecdc.europa.eu/covid19/casedistribution/json
+- xml: https://opendata.ecdc.europa.eu/covid19/casedistribution/xml
+- xlsx: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-YYYY-MM-DD.xlsx *
+-- YYYY = Year, MM = Month, DD = Day
