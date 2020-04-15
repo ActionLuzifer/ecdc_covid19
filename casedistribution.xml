@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <records>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>49</cases>
+    <deaths>2</deaths>
+    <countriesAndTerritories>Afghanistan</countriesAndTerritories>
+    <geoId>AF</geoId>
+    <countryterritoryCode>AFG</countryterritoryCode>
+    <popData2018>37172386</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -1153,6 +1165,18 @@
     <popData2018>37172386</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>8</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Albania</countriesAndTerritories>
+    <geoId>AL</geoId>
+    <countryterritoryCode>ALB</countryterritoryCode>
+    <popData2018>2866376</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -1595,6 +1619,18 @@
     <geoId>AL</geoId>
     <countryterritoryCode>ALB</countryterritoryCode>
     <popData2018>2866376</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>87</cases>
+    <deaths>13</deaths>
+    <countriesAndTerritories>Algeria</countriesAndTerritories>
+    <geoId>DZ</geoId>
+    <countryterritoryCode>DZA</countryterritoryCode>
+    <popData2018>42228429</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -2809,6 +2845,18 @@
     <popData2018>42228429</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>13</cases>
+    <deaths>2</deaths>
+    <countriesAndTerritories>Andorra</countriesAndTerritories>
+    <geoId>AD</geoId>
+    <countryterritoryCode>AND</countryterritoryCode>
+    <popData2018>77006</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -3193,6 +3241,18 @@
     <popData2018>77006</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Angola</countriesAndTerritories>
+    <geoId>AO</geoId>
+    <countryterritoryCode>AGO</countryterritoryCode>
+    <popData2018>30809762</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -3481,6 +3541,18 @@
     <popData2018>30809762</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Anguilla</countriesAndTerritories>
+    <geoId>AI</geoId>
+    <countryterritoryCode></countryterritoryCode>
+    <popData2018></popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -3707,6 +3779,18 @@
     <geoId>AI</geoId>
     <countryterritoryCode></countryterritoryCode>
     <popData2018></popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Antigua_and_Barbuda</countriesAndTerritories>
+    <geoId>AG</geoId>
+    <countryterritoryCode>ATG</countryterritoryCode>
+    <popData2018>96286</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -4019,6 +4103,18 @@
     <geoId>AG</geoId>
     <countryterritoryCode>ATG</countryterritoryCode>
     <popData2018>96286</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>160</cases>
+    <deaths>7</deaths>
+    <countriesAndTerritories>Argentina</countriesAndTerritories>
+    <geoId>AR</geoId>
+    <countryterritoryCode>ARG</countryterritoryCode>
+    <popData2018>44494502</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -4487,6 +4583,18 @@
     <geoId>AR</geoId>
     <countryterritoryCode>ARG</countryterritoryCode>
     <popData2018>44494502</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>72</cases>
+    <deaths>3</deaths>
+    <countriesAndTerritories>Armenia</countriesAndTerritories>
+    <geoId>AM</geoId>
+    <countryterritoryCode>ARM</countryterritoryCode>
+    <popData2018>2951776</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -5653,6 +5761,18 @@
     <popData2018>2951776</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Aruba</countriesAndTerritories>
+    <geoId>AW</geoId>
+    <countryterritoryCode>ABW</countryterritoryCode>
+    <popData2018>105845</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -5927,6 +6047,18 @@
     <geoId>AW</geoId>
     <countryterritoryCode>ABW</countryterritoryCode>
     <popData2018>105845</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>50</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Australia</countriesAndTerritories>
+    <geoId>AU</geoId>
+    <countryterritoryCode>AUS</countryterritoryCode>
+    <popData2018>24992369</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -7201,6 +7333,18 @@
     <popData2018>24992369</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>191</cases>
+    <deaths>16</deaths>
+    <countriesAndTerritories>Austria</countriesAndTerritories>
+    <geoId>AT</geoId>
+    <countryterritoryCode>AUT</countryterritoryCode>
+    <popData2018>8847037</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -8473,6 +8617,18 @@
     <popData2018>8847037</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>49</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Azerbaijan</countriesAndTerritories>
+    <geoId>AZ</geoId>
+    <countryterritoryCode>AZE</countryterritoryCode>
+    <popData2018>9942334</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -9661,6 +9817,18 @@
     <popData2018>9942334</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Bahamas</countriesAndTerritories>
+    <geoId>BS</geoId>
+    <countryterritoryCode>BHS</countryterritoryCode>
+    <popData2018>385640</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -9995,6 +10163,18 @@
     <geoId>BS</geoId>
     <countryterritoryCode>BHS</countryterritoryCode>
     <popData2018>385640</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>167</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Bahrain</countriesAndTerritories>
+    <geoId>BH</geoId>
+    <countryterritoryCode>BHR</countryterritoryCode>
+    <popData2018>1569439</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -11257,6 +11437,18 @@
     <popData2018>1569439</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>209</cases>
+    <deaths>7</deaths>
+    <countriesAndTerritories>Bangladesh</countriesAndTerritories>
+    <geoId>BD</geoId>
+    <countryterritoryCode>BGD</countryterritoryCode>
+    <popData2018>161356039</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -11629,6 +11821,18 @@
     <popData2018>161356039</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Barbados</countriesAndTerritories>
+    <geoId>BB</geoId>
+    <countryterritoryCode>BRB</countryterritoryCode>
+    <popData2018>286641</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -11963,6 +12167,18 @@
     <geoId>BB</geoId>
     <countryterritoryCode>BRB</countryterritoryCode>
     <popData2018>286641</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>362</cases>
+    <deaths>4</deaths>
+    <countriesAndTerritories>Belarus</countriesAndTerritories>
+    <geoId>BY</geoId>
+    <countryterritoryCode>BLR</countryterritoryCode>
+    <popData2018>9485386</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -13139,6 +13355,18 @@
     <geoId>BY</geoId>
     <countryterritoryCode>BLR</countryterritoryCode>
     <popData2018>9485386</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>530</cases>
+    <deaths>254</deaths>
+    <countriesAndTerritories>Belgium</countriesAndTerritories>
+    <geoId>BE</geoId>
+    <countryterritoryCode>BEL</countryterritoryCode>
+    <popData2018>11422068</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -14413,6 +14641,18 @@
     <popData2018>11422068</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Belize</countriesAndTerritories>
+    <geoId>BZ</geoId>
+    <countryterritoryCode>BLZ</countryterritoryCode>
+    <popData2018>383071</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -14675,6 +14915,18 @@
     <geoId>BZ</geoId>
     <countryterritoryCode>BLZ</countryterritoryCode>
     <popData2018>383071</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Benin</countriesAndTerritories>
+    <geoId>BJ</geoId>
+    <countryterritoryCode>BEN</countryterritoryCode>
+    <popData2018>11485048</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -15025,6 +15277,18 @@
     <popData2018>11485048</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Bermuda</countriesAndTerritories>
+    <geoId>BM</geoId>
+    <countryterritoryCode>BMU</countryterritoryCode>
+    <popData2018>63968</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -15335,6 +15599,18 @@
     <geoId>BM</geoId>
     <countryterritoryCode>BMU</countryterritoryCode>
     <popData2018>63968</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Bhutan</countriesAndTerritories>
+    <geoId>BT</geoId>
+    <countryterritoryCode>BTN</countryterritoryCode>
+    <popData2018>754394</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -15719,6 +15995,18 @@
     <geoId>BT</geoId>
     <countryterritoryCode>BTN</countryterritoryCode>
     <popData2018>754394</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>43</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Bolivia</countriesAndTerritories>
+    <geoId>BO</geoId>
+    <countryterritoryCode>BOL</countryterritoryCode>
+    <popData2018>11353142</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -16117,6 +16405,18 @@
     <popData2018>11353142</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Bonaire, Saint Eustatius and Saba</countriesAndTerritories>
+    <geoId>BQ</geoId>
+    <countryterritoryCode></countryterritoryCode>
+    <popData2018></popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -16271,6 +16571,18 @@
     <geoId>BQ</geoId>
     <countryterritoryCode></countryterritoryCode>
     <popData2018></popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>45</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Bosnia_and_Herzegovina</countriesAndTerritories>
+    <geoId>BA</geoId>
+    <countryterritoryCode>BIH</countryterritoryCode>
+    <popData2018>3323929</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -16669,6 +16981,18 @@
     <popData2018>3323929</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Botswana</countriesAndTerritories>
+    <geoId>BW</geoId>
+    <countryterritoryCode>BWA</countryterritoryCode>
+    <popData2018>2254126</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -16835,6 +17159,18 @@
     <geoId>BW</geoId>
     <countryterritoryCode>BWA</countryterritoryCode>
     <popData2018>2254126</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1832</cases>
+    <deaths>204</deaths>
+    <countriesAndTerritories>Brazil</countriesAndTerritories>
+    <geoId>BR</geoId>
+    <countryterritoryCode>BRA</countryterritoryCode>
+    <popData2018>209469333</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -18073,6 +18409,18 @@
     <popData2018>209469333</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>British_Virgin_Islands</countriesAndTerritories>
+    <geoId>VG</geoId>
+    <countryterritoryCode>VGB</countryterritoryCode>
+    <popData2018>29802</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -18299,6 +18647,18 @@
     <geoId>VG</geoId>
     <countryterritoryCode>VGB</countryterritoryCode>
     <popData2018>29802</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Brunei_Darussalam</countriesAndTerritories>
+    <geoId>BN</geoId>
+    <countryterritoryCode>BRN</countryterritoryCode>
+    <popData2018>428962</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -18719,6 +19079,18 @@
     <geoId>BN</geoId>
     <countryterritoryCode>BRN</countryterritoryCode>
     <popData2018>428962</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>28</cases>
+    <deaths>3</deaths>
+    <countriesAndTerritories>Bulgaria</countriesAndTerritories>
+    <geoId>BG</geoId>
+    <countryterritoryCode>BGR</countryterritoryCode>
+    <popData2018>7024216</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -19153,6 +19525,18 @@
     <popData2018>7024216</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>13</cases>
+    <deaths>2</deaths>
+    <countriesAndTerritories>Burkina_Faso</countriesAndTerritories>
+    <geoId>BF</geoId>
+    <countryterritoryCode>BFA</countryterritoryCode>
+    <popData2018>19751535</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -19549,6 +19933,18 @@
     <popData2018>19751535</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Burundi</countriesAndTerritories>
+    <geoId>BI</geoId>
+    <countryterritoryCode>BDI</countryterritoryCode>
+    <popData2018>11175378</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -19715,6 +20111,18 @@
     <geoId>BI</geoId>
     <countryterritoryCode>BDI</countryterritoryCode>
     <popData2018>11175378</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Cambodia</countriesAndTerritories>
+    <geoId>KH</geoId>
+    <countryterritoryCode>KHM</countryterritoryCode>
+    <popData2018>16249798</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -20881,6 +21289,18 @@
     <popData2018>16249798</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>35</cases>
+    <deaths>5</deaths>
+    <countriesAndTerritories>Cameroon</countriesAndTerritories>
+    <geoId>CM</geoId>
+    <countryterritoryCode>CMR</countryterritoryCode>
+    <popData2018>25216237</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -21275,6 +21695,18 @@
     <geoId>CM</geoId>
     <countryterritoryCode>CMR</countryterritoryCode>
     <popData2018>25216237</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1383</cases>
+    <deaths>123</deaths>
+    <countriesAndTerritories>Canada</countriesAndTerritories>
+    <geoId>CA</geoId>
+    <countryterritoryCode>CAN</countryterritoryCode>
+    <popData2018>37058856</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -22549,6 +22981,18 @@
     <popData2018>37058856</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Cape_Verde</countriesAndTerritories>
+    <geoId>CV</geoId>
+    <countryterritoryCode>CPV</countryterritoryCode>
+    <popData2018>543767</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -23617,6 +24061,18 @@
     <popData2018>3000</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Cayman_Islands</countriesAndTerritories>
+    <geoId>KY</geoId>
+    <countryterritoryCode>CYM</countryterritoryCode>
+    <popData2018>64174</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -23927,6 +24383,18 @@
     <geoId>KY</geoId>
     <countryterritoryCode>CYM</countryterritoryCode>
     <popData2018>64174</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Central_African_Republic</countriesAndTerritories>
+    <geoId>CF</geoId>
+    <countryterritoryCode>CAF</countryterritoryCode>
+    <popData2018>4666377</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -24289,6 +24757,18 @@
     <popData2018>4666377</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Chad</countriesAndTerritories>
+    <geoId>TD</geoId>
+    <countryterritoryCode>TCD</countryterritoryCode>
+    <popData2018>15477751</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -24599,6 +25079,18 @@
     <geoId>TD</geoId>
     <countryterritoryCode>TCD</countryterritoryCode>
     <popData2018>15477751</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>392</cases>
+    <deaths>10</deaths>
+    <countriesAndTerritories>Chile</countriesAndTerritories>
+    <geoId>CL</geoId>
+    <countryterritoryCode>CHL</countryterritoryCode>
+    <popData2018>18729160</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -25091,6 +25583,18 @@
     <geoId>CL</geoId>
     <countryterritoryCode>CHL</countryterritoryCode>
     <popData2018>18729160</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>49</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>China</countriesAndTerritories>
+    <geoId>CN</geoId>
+    <countryterritoryCode>CHN</countryterritoryCode>
+    <popData2018>1392730000</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -26365,6 +26869,18 @@
     <popData2018>1392730000</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>127</cases>
+    <deaths>15</deaths>
+    <countriesAndTerritories>Colombia</countriesAndTerritories>
+    <geoId>CO</geoId>
+    <countryterritoryCode>COL</countryterritoryCode>
+    <popData2018>49648685</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -26785,6 +27301,18 @@
     <popData2018>49648685</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>4</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Congo</countriesAndTerritories>
+    <geoId>CG</geoId>
+    <countryterritoryCode>COG</countryterritoryCode>
+    <popData2018>5244363</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -27143,6 +27671,18 @@
     <geoId>CG</geoId>
     <countryterritoryCode>COG</countryterritoryCode>
     <popData2018>5244363</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>6</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Costa_Rica</countriesAndTerritories>
+    <geoId>CR</geoId>
+    <countryterritoryCode>CRI</countryterritoryCode>
+    <popData2018>4999441</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -27601,6 +28141,18 @@
     <popData2018>4999441</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Cote_dIvoire</countriesAndTerritories>
+    <geoId>CI</geoId>
+    <countryterritoryCode>CIV</countryterritoryCode>
+    <popData2018>25069229</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -27983,6 +28535,18 @@
     <geoId>CI</geoId>
     <countryterritoryCode>CIV</countryterritoryCode>
     <popData2018>25069229</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>54</cases>
+    <deaths>6</deaths>
+    <countriesAndTerritories>Croatia</countriesAndTerritories>
+    <geoId>HR</geoId>
+    <countryterritoryCode>HRV</countryterritoryCode>
+    <popData2018>4089400</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -29221,6 +29785,18 @@
     <popData2018>4089400</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>40</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Cuba</countriesAndTerritories>
+    <geoId>CU</geoId>
+    <countryterritoryCode>CUB</countryterritoryCode>
+    <popData2018>11338138</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -29593,6 +30169,18 @@
     <popData2018>11338138</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Curaçao</countriesAndTerritories>
+    <geoId>CW</geoId>
+    <countryterritoryCode>CUW</countryterritoryCode>
+    <popData2018>159849</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -29855,6 +30443,18 @@
     <geoId>CW</geoId>
     <countryterritoryCode>CUW</countryterritoryCode>
     <popData2018>159849</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>33</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Cyprus</countriesAndTerritories>
+    <geoId>CY</geoId>
+    <countryterritoryCode>CYP</countryterritoryCode>
+    <popData2018>1189265</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -30263,6 +30863,18 @@
     <geoId>CY</geoId>
     <countryterritoryCode>CYP</countryterritoryCode>
     <popData2018>1189265</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>82</cases>
+    <deaths>18</deaths>
+    <countriesAndTerritories>Czechia</countriesAndTerritories>
+    <geoId>CZ</geoId>
+    <countryterritoryCode>CZE</countryterritoryCode>
+    <popData2018>10625695</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -31537,6 +32149,18 @@
     <popData2018>10625695</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>19</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Democratic_Republic_of_the_Congo</countriesAndTerritories>
+    <geoId>CD</geoId>
+    <countryterritoryCode>COD</countryterritoryCode>
+    <popData2018>84068091</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -31931,6 +32555,18 @@
     <geoId>CD</geoId>
     <countryterritoryCode>COD</countryterritoryCode>
     <popData2018>84068091</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>193</cases>
+    <deaths>14</deaths>
+    <countriesAndTerritories>Denmark</countriesAndTerritories>
+    <geoId>DK</geoId>
+    <countryterritoryCode>DNK</countryterritoryCode>
+    <popData2018>5797446</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -33205,6 +33841,18 @@
     <popData2018>5797446</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>65</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Djibouti</countriesAndTerritories>
+    <geoId>DJ</geoId>
+    <countryterritoryCode>DJI</countryterritoryCode>
+    <popData2018>958920</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -33529,6 +34177,18 @@
     <popData2018>958920</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Dominica</countriesAndTerritories>
+    <geoId>DM</geoId>
+    <countryterritoryCode>DMA</countryterritoryCode>
+    <popData2018>71625</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -33803,6 +34463,18 @@
     <geoId>DM</geoId>
     <countryterritoryCode>DMA</countryterritoryCode>
     <popData2018>71625</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>119</cases>
+    <deaths>6</deaths>
+    <countriesAndTerritories>Dominican_Republic</countriesAndTerritories>
+    <geoId>DO</geoId>
+    <countryterritoryCode>DOM</countryterritoryCode>
+    <popData2018>10627165</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -34967,6 +35639,18 @@
     <geoId>DO</geoId>
     <countryterritoryCode>DOM</countryterritoryCode>
     <popData2018>10627165</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>74</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Ecuador</countriesAndTerritories>
+    <geoId>EC</geoId>
+    <countryterritoryCode>ECU</countryterritoryCode>
+    <popData2018>17084357</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -36179,6 +36863,18 @@
     <geoId>EC</geoId>
     <countryterritoryCode>ECU</countryterritoryCode>
     <popData2018>17084357</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>160</cases>
+    <deaths>14</deaths>
+    <countriesAndTerritories>Egypt</countriesAndTerritories>
+    <geoId>EG</geoId>
+    <countryterritoryCode>EGY</countryterritoryCode>
+    <popData2018>98423595</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -37405,6 +38101,18 @@
     <popData2018>98423595</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>10</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>El_Salvador</countriesAndTerritories>
+    <geoId>SV</geoId>
+    <countryterritoryCode>SLV</countryterritoryCode>
+    <popData2018>6420744</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -37727,6 +38435,18 @@
     <geoId>SV</geoId>
     <countryterritoryCode>SLV</countryterritoryCode>
     <popData2018>6420744</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>20</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Equatorial_Guinea</countriesAndTerritories>
+    <geoId>GQ</geoId>
+    <countryterritoryCode>GNQ</countryterritoryCode>
+    <popData2018>1308974</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -38101,6 +38821,18 @@
     <popData2018>1308974</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Eritrea</countriesAndTerritories>
+    <geoId>ER</geoId>
+    <countryterritoryCode>ERI</countryterritoryCode>
+    <popData2018></popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -38387,6 +39119,18 @@
     <geoId>ER</geoId>
     <countryterritoryCode>ERI</countryterritoryCode>
     <popData2018></popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>41</cases>
+    <deaths>3</deaths>
+    <countriesAndTerritories>Estonia</countriesAndTerritories>
+    <geoId>EE</geoId>
+    <countryterritoryCode>EST</countryterritoryCode>
+    <popData2018>1320884</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -39601,6 +40345,18 @@
     <popData2018>1320884</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Eswatini</countriesAndTerritories>
+    <geoId>SZ</geoId>
+    <countryterritoryCode>SWZ</countryterritoryCode>
+    <popData2018>1367000</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -39971,6 +40727,18 @@
     <geoId>SZ</geoId>
     <countryterritoryCode>SWZ</countryterritoryCode>
     <popData2018>1367000</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>8</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Ethiopia</countriesAndTerritories>
+    <geoId>ET</geoId>
+    <countryterritoryCode>ETH</countryterritoryCode>
+    <popData2018>109224559</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -40357,6 +41125,18 @@
     <popData2018>109224559</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>6</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Falkland_Islands_(Malvinas)</countriesAndTerritories>
+    <geoId>FK</geoId>
+    <countryterritoryCode></countryterritoryCode>
+    <popData2018></popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -40487,6 +41267,18 @@
     <geoId>FK</geoId>
     <countryterritoryCode></countryterritoryCode>
     <popData2018></popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Faroe_Islands</countriesAndTerritories>
+    <geoId>FO</geoId>
+    <countryterritoryCode>FRO</countryterritoryCode>
+    <popData2018>48497</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -40801,6 +41593,18 @@
     <popData2018>48497</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Fiji</countriesAndTerritories>
+    <geoId>FJ</geoId>
+    <countryterritoryCode>FJI</countryterritoryCode>
+    <popData2018>883483</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -41111,6 +41915,18 @@
     <geoId>FJ</geoId>
     <countryterritoryCode>FJI</countryterritoryCode>
     <popData2018>883483</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>97</cases>
+    <deaths>5</deaths>
+    <countriesAndTerritories>Finland</countriesAndTerritories>
+    <geoId>FI</geoId>
+    <countryterritoryCode>FIN</countryterritoryCode>
+    <popData2018>5518050</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -42323,6 +43139,18 @@
     <geoId>FI</geoId>
     <countryterritoryCode>FIN</countryterritoryCode>
     <popData2018>5518050</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>5497</cases>
+    <deaths>762</deaths>
+    <countriesAndTerritories>France</countriesAndTerritories>
+    <geoId>FR</geoId>
+    <countryterritoryCode>FRA</countryterritoryCode>
+    <popData2018>66987244</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -43597,6 +44425,18 @@
     <popData2018>66987244</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>French_Polynesia</countriesAndTerritories>
+    <geoId>PF</geoId>
+    <countryterritoryCode>PYF</countryterritoryCode>
+    <popData2018>277679</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -43919,6 +44759,18 @@
     <geoId>PF</geoId>
     <countryterritoryCode>PYF</countryterritoryCode>
     <popData2018>277679</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>18</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Gabon</countriesAndTerritories>
+    <geoId>GA</geoId>
+    <countryterritoryCode>GAB</countryterritoryCode>
+    <popData2018>2119275</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -44305,6 +45157,18 @@
     <popData2018>2119275</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Gambia</countriesAndTerritories>
+    <geoId>GM</geoId>
+    <countryterritoryCode>GMB</countryterritoryCode>
+    <popData2018>2280102</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -44639,6 +45503,18 @@
     <geoId>GM</geoId>
     <countryterritoryCode>GMB</countryterritoryCode>
     <popData2018>2280102</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>28</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Georgia</countriesAndTerritories>
+    <geoId>GE</geoId>
+    <countryterritoryCode>GEO</countryterritoryCode>
+    <popData2018>3731000</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -45875,6 +46751,18 @@
     <geoId>GE</geoId>
     <countryterritoryCode>GEO</countryterritoryCode>
     <popData2018>3731000</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2486</cases>
+    <deaths>285</deaths>
+    <countriesAndTerritories>Germany</countriesAndTerritories>
+    <geoId>DE</geoId>
+    <countryterritoryCode>DEU</countryterritoryCode>
+    <popData2018>82927922</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -47149,6 +48037,18 @@
     <popData2018>82927922</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>70</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Ghana</countriesAndTerritories>
+    <geoId>GH</geoId>
+    <countryterritoryCode>GHA</countryterritoryCode>
+    <popData2018>29767108</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -47533,6 +48433,18 @@
     <popData2018>29767108</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Gibraltar</countriesAndTerritories>
+    <geoId>GI</geoId>
+    <countryterritoryCode>GIB</countryterritoryCode>
+    <popData2018>33718</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -47843,6 +48755,18 @@
     <geoId>GI</geoId>
     <countryterritoryCode>GIB</countryterritoryCode>
     <popData2018>33718</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>25</cases>
+    <deaths>2</deaths>
+    <countriesAndTerritories>Greece</countriesAndTerritories>
+    <geoId>EL</geoId>
+    <countryterritoryCode>GRC</countryterritoryCode>
+    <popData2018>10727668</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -49093,6 +50017,18 @@
     <popData2018>10727668</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Greenland</countriesAndTerritories>
+    <geoId>GL</geoId>
+    <countryterritoryCode>GRL</countryterritoryCode>
+    <popData2018>56025</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -49405,6 +50341,18 @@
     <popData2018>56025</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Grenada</countriesAndTerritories>
+    <geoId>GD</geoId>
+    <countryterritoryCode>GRD</countryterritoryCode>
+    <popData2018>111454</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -49679,6 +50627,18 @@
     <geoId>GD</geoId>
     <countryterritoryCode>GRD</countryterritoryCode>
     <popData2018>111454</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Guam</countriesAndTerritories>
+    <geoId>GU</geoId>
+    <countryterritoryCode>GUM</countryterritoryCode>
+    <popData2018>165768</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -50003,6 +50963,18 @@
     <geoId>GU</geoId>
     <countryterritoryCode>GUM</countryterritoryCode>
     <popData2018>165768</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>13</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Guatemala</countriesAndTerritories>
+    <geoId>GT</geoId>
+    <countryterritoryCode>GTM</countryterritoryCode>
+    <popData2018>17247807</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -50377,6 +51349,18 @@
     <popData2018>17247807</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>4</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Guernsey</countriesAndTerritories>
+    <geoId>GG</geoId>
+    <countryterritoryCode>GGY</countryterritoryCode>
+    <popData2018>63026</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -50687,6 +51671,18 @@
     <geoId>GG</geoId>
     <countryterritoryCode>GGY</countryterritoryCode>
     <popData2018>63026</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>44</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Guinea</countriesAndTerritories>
+    <geoId>GN</geoId>
+    <countryterritoryCode>GIN</countryterritoryCode>
+    <popData2018>12414318</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -51061,6 +52057,18 @@
     <popData2018>12414318</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Guinea_Bissau</countriesAndTerritories>
+    <geoId>GW</geoId>
+    <countryterritoryCode>GNB</countryterritoryCode>
+    <popData2018>1874309</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -51287,6 +52295,18 @@
     <geoId>GW</geoId>
     <countryterritoryCode>GNB</countryterritoryCode>
     <popData2018>1874309</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Guyana</countriesAndTerritories>
+    <geoId>GY</geoId>
+    <countryterritoryCode>GUY</countryterritoryCode>
+    <popData2018>779004</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -51661,6 +52681,18 @@
     <popData2018>779004</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Haiti</countriesAndTerritories>
+    <geoId>HT</geoId>
+    <countryterritoryCode>HTI</countryterritoryCode>
+    <popData2018>11123176</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -51971,6 +53003,18 @@
     <geoId>HT</geoId>
     <countryterritoryCode>HTI</countryterritoryCode>
     <popData2018>11123176</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Holy_See</countriesAndTerritories>
+    <geoId>VA</geoId>
+    <countryterritoryCode>VAT</countryterritoryCode>
+    <popData2018>1000</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -52343,6 +53387,18 @@
     <geoId>VA</geoId>
     <countryterritoryCode>VAT</countryterritoryCode>
     <popData2018>1000</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>12</cases>
+    <deaths>5</deaths>
+    <countriesAndTerritories>Honduras</countriesAndTerritories>
+    <geoId>HN</geoId>
+    <countryterritoryCode>HND</countryterritoryCode>
+    <popData2018>9587522</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -52727,6 +53783,18 @@
     <geoId>HN</geoId>
     <countryterritoryCode>HND</countryterritoryCode>
     <popData2018>9587522</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>67</cases>
+    <deaths>12</deaths>
+    <countriesAndTerritories>Hungary</countriesAndTerritories>
+    <geoId>HU</geoId>
+    <countryterritoryCode>HUN</countryterritoryCode>
+    <popData2018>9768785</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -53207,6 +54275,18 @@
     <geoId>HU</geoId>
     <countryterritoryCode>HUN</countryterritoryCode>
     <popData2018>9768785</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>9</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Iceland</countriesAndTerritories>
+    <geoId>IS</geoId>
+    <countryterritoryCode>ISL</countryterritoryCode>
+    <popData2018>353574</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -54481,6 +55561,18 @@
     <popData2018>353574</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1075</cases>
+    <deaths>38</deaths>
+    <countriesAndTerritories>India</countriesAndTerritories>
+    <geoId>IN</geoId>
+    <countryterritoryCode>IND</countryterritoryCode>
+    <popData2018>1352617328</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -55741,6 +56833,18 @@
     <popData2018>1352617328</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>282</cases>
+    <deaths>60</deaths>
+    <countriesAndTerritories>Indonesia</countriesAndTerritories>
+    <geoId>ID</geoId>
+    <countryterritoryCode>IDN</countryterritoryCode>
+    <popData2018>267663435</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -56927,6 +58031,18 @@
     <geoId>ID</geoId>
     <countryterritoryCode>IDN</countryterritoryCode>
     <popData2018>267663435</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1574</cases>
+    <deaths>98</deaths>
+    <countriesAndTerritories>Iran</countriesAndTerritories>
+    <geoId>IR</geoId>
+    <countryterritoryCode>IRN</countryterritoryCode>
+    <popData2018>81800269</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -58201,6 +59317,18 @@
     <popData2018>81800269</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>22</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Iraq</countriesAndTerritories>
+    <geoId>IQ</geoId>
+    <countryterritoryCode>IRQ</countryterritoryCode>
+    <popData2018>38433600</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -59447,6 +60575,18 @@
     <geoId>IQ</geoId>
     <countryterritoryCode>IRQ</countryterritoryCode>
     <popData2018>38433600</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>832</cases>
+    <deaths>41</deaths>
+    <countriesAndTerritories>Ireland</countriesAndTerritories>
+    <geoId>IE</geoId>
+    <countryterritoryCode>IRL</countryterritoryCode>
+    <popData2018>4853506</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -60697,6 +61837,18 @@
     <popData2018>4853506</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Isle_of_Man</countriesAndTerritories>
+    <geoId>IM</geoId>
+    <countryterritoryCode>IMN</countryterritoryCode>
+    <popData2018>84077</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -60995,6 +62147,18 @@
     <geoId>IM</geoId>
     <countryterritoryCode>IMN</countryterritoryCode>
     <popData2018>84077</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>460</cases>
+    <deaths>7</deaths>
+    <countriesAndTerritories>Israel</countriesAndTerritories>
+    <geoId>IL</geoId>
+    <countryterritoryCode>ISR</countryterritoryCode>
+    <popData2018>8883800</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -62231,6 +63395,18 @@
     <geoId>IL</geoId>
     <countryterritoryCode>ISR</countryterritoryCode>
     <popData2018>8883800</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2972</cases>
+    <deaths>604</deaths>
+    <countriesAndTerritories>Italy</countriesAndTerritories>
+    <geoId>IT</geoId>
+    <countryterritoryCode>ITA</countryterritoryCode>
+    <popData2018>60431283</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -63505,6 +64681,18 @@
     <popData2018>60431283</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>32</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Jamaica</countriesAndTerritories>
+    <geoId>JM</geoId>
+    <countryterritoryCode>JAM</countryterritoryCode>
+    <popData2018>2934855</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -63899,6 +65087,18 @@
     <geoId>JM</geoId>
     <countryterritoryCode>JAM</countryterritoryCode>
     <popData2018>2934855</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>455</cases>
+    <deaths>10</deaths>
+    <countriesAndTerritories>Japan</countriesAndTerritories>
+    <geoId>JP</geoId>
+    <countryterritoryCode>JPN</countryterritoryCode>
+    <popData2018>126529100</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -65173,6 +66373,18 @@
     <popData2018>126529100</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Jersey</countriesAndTerritories>
+    <geoId>JE</geoId>
+    <countryterritoryCode>JEY</countryterritoryCode>
+    <popData2018>106800</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -65483,6 +66695,18 @@
     <geoId>JE</geoId>
     <countryterritoryCode>JEY</countryterritoryCode>
     <popData2018>106800</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>6</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Jordan</countriesAndTerritories>
+    <geoId>JO</geoId>
+    <countryterritoryCode>JOR</countryterritoryCode>
+    <popData2018>9956011</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -65881,6 +67105,18 @@
     <popData2018>9956011</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>88</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Kazakhstan</countriesAndTerritories>
+    <geoId>KZ</geoId>
+    <countryterritoryCode>KAZ</countryterritoryCode>
+    <popData2018>18276499</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -66251,6 +67487,18 @@
     <geoId>KZ</geoId>
     <countryterritoryCode>KAZ</countryterritoryCode>
     <popData2018>18276499</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>8</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Kenya</countriesAndTerritories>
+    <geoId>KE</geoId>
+    <countryterritoryCode>KEN</countryterritoryCode>
+    <popData2018>51393010</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -66637,6 +67885,18 @@
     <popData2018>51393010</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>10</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Kosovo</countriesAndTerritories>
+    <geoId>XK</geoId>
+    <countryterritoryCode>XKX</countryterritoryCode>
+    <popData2018>1845300</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -66995,6 +68255,18 @@
     <geoId>XK</geoId>
     <countryterritoryCode>XKX</countryterritoryCode>
     <popData2018>1845300</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>55</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Kuwait</countriesAndTerritories>
+    <geoId>KW</geoId>
+    <countryterritoryCode>KWT</countryterritoryCode>
+    <popData2018>4137309</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -68233,6 +69505,18 @@
     <popData2018>4137309</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>19</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Kyrgyzstan</countriesAndTerritories>
+    <geoId>KG</geoId>
+    <countryterritoryCode>KGZ</countryterritoryCode>
+    <popData2018>6315800</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -68557,6 +69841,18 @@
     <popData2018>6315800</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Laos</countriesAndTerritories>
+    <geoId>LA</geoId>
+    <countryterritoryCode>LAO</countryterritoryCode>
+    <popData2018>7061507</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -68807,6 +70103,18 @@
     <geoId>LA</geoId>
     <countryterritoryCode>LAO</countryterritoryCode>
     <popData2018>7061507</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Latvia</countriesAndTerritories>
+    <geoId>LV</geoId>
+    <countryterritoryCode>LVA</countryterritoryCode>
+    <popData2018>1926542</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -69275,6 +70583,18 @@
     <geoId>LV</geoId>
     <countryterritoryCode>LVA</countryterritoryCode>
     <popData2018>1926542</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>9</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Lebanon</countriesAndTerritories>
+    <geoId>LB</geoId>
+    <countryterritoryCode>LBN</countryterritoryCode>
+    <popData2018>6848925</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -70501,6 +71821,18 @@
     <popData2018>6848925</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Liberia</countriesAndTerritories>
+    <geoId>LR</geoId>
+    <countryterritoryCode>LBR</countryterritoryCode>
+    <popData2018>4818977</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -70849,6 +72181,18 @@
     <popData2018>4818977</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>9</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Libya</countriesAndTerritories>
+    <geoId>LY</geoId>
+    <countryterritoryCode>LBY</countryterritoryCode>
+    <popData2018>6678567</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -71099,6 +72443,18 @@
     <geoId>LY</geoId>
     <countryterritoryCode>LBY</countryterritoryCode>
     <popData2018>6678567</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Liechtenstein</countriesAndTerritories>
+    <geoId>LI</geoId>
+    <countryterritoryCode>LIE</countryterritoryCode>
+    <popData2018>37910</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -71519,6 +72875,18 @@
     <geoId>LI</geoId>
     <countryterritoryCode>LIE</countryterritoryCode>
     <popData2018>37910</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Lithuania</countriesAndTerritories>
+    <geoId>LT</geoId>
+    <countryterritoryCode>LTU</countryterritoryCode>
+    <popData2018>2789533</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -72685,12 +74053,24 @@
     <popData2018>2789533</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>15</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Luxembourg</countriesAndTerritories>
+    <geoId>LU</geoId>
+    <countryterritoryCode>LUX</countryterritoryCode>
+    <popData2018>607728</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
     <year>2020</year>
     <cases>11</cases>
-    <deaths>3</deaths>
+    <deaths>1</deaths>
     <countriesAndTerritories>Luxembourg</countriesAndTerritories>
     <geoId>LU</geoId>
     <countryterritoryCode>LUX</countryterritoryCode>
@@ -73873,6 +75253,18 @@
     <popData2018>607728</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Madagascar</countriesAndTerritories>
+    <geoId>MG</geoId>
+    <countryterritoryCode>MDG</countryterritoryCode>
+    <popData2018>26262368</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -74173,6 +75565,18 @@
     <popData2018>26262368</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Malawi</countriesAndTerritories>
+    <geoId>MW</geoId>
+    <countryterritoryCode>MWI</countryterritoryCode>
+    <popData2018>18143315</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -74315,6 +75719,18 @@
     <geoId>MW</geoId>
     <countryterritoryCode>MWI</countryterritoryCode>
     <popData2018>18143315</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>170</cases>
+    <deaths>5</deaths>
+    <countriesAndTerritories>Malaysia</countriesAndTerritories>
+    <geoId>MY</geoId>
+    <countryterritoryCode>MYS</countryterritoryCode>
+    <popData2018>31528585</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -75577,6 +76993,18 @@
     <popData2018>31528585</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Maldives</countriesAndTerritories>
+    <geoId>MV</geoId>
+    <countryterritoryCode>MDV</countryterritoryCode>
+    <popData2018>515696</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -76009,6 +77437,18 @@
     <popData2018>515696</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>21</cases>
+    <deaths>3</deaths>
+    <countriesAndTerritories>Mali</countriesAndTerritories>
+    <geoId>ML</geoId>
+    <countryterritoryCode>MLI</countryterritoryCode>
+    <popData2018>19077690</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -76247,6 +77687,18 @@
     <geoId>ML</geoId>
     <countryterritoryCode>MLI</countryterritoryCode>
     <popData2018>19077690</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>9</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Malta</countriesAndTerritories>
+    <geoId>MT</geoId>
+    <countryterritoryCode>MLT</countryterritoryCode>
+    <popData2018>483530</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -76681,6 +78133,18 @@
     <popData2018>483530</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Mauritania</countriesAndTerritories>
+    <geoId>MR</geoId>
+    <countryterritoryCode>MRT</countryterritoryCode>
+    <popData2018>4403319</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -77053,6 +78517,18 @@
     <popData2018>4403319</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Mauritius</countriesAndTerritories>
+    <geoId>MU</geoId>
+    <countryterritoryCode>MUS</countryterritoryCode>
+    <popData2018>1265303</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -77363,6 +78839,18 @@
     <geoId>MU</geoId>
     <countryterritoryCode>MUS</countryterritoryCode>
     <popData2018>1265303</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>385</cases>
+    <deaths>74</deaths>
+    <countriesAndTerritories>Mexico</countriesAndTerritories>
+    <geoId>MX</geoId>
+    <countryterritoryCode>MEX</countryterritoryCode>
+    <popData2018>126190788</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -78541,6 +80029,18 @@
     <popData2018>126190788</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>222</cases>
+    <deaths>4</deaths>
+    <countriesAndTerritories>Moldova</countriesAndTerritories>
+    <geoId>MD</geoId>
+    <countryterritoryCode>MDA</countryterritoryCode>
+    <popData2018>3545883</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -78971,6 +80471,18 @@
     <geoId>MD</geoId>
     <countryterritoryCode>MDA</countryterritoryCode>
     <popData2018>3545883</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Monaco</countriesAndTerritories>
+    <geoId>MC</geoId>
+    <countryterritoryCode>MCO</countryterritoryCode>
+    <popData2018>38682</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -80101,6 +81613,18 @@
     <popData2018>38682</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>14</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Mongolia</countriesAndTerritories>
+    <geoId>MN</geoId>
+    <countryterritoryCode>MNG</countryterritoryCode>
+    <popData2018>3170208</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -80461,6 +81985,18 @@
     <popData2018>3170208</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>9</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Montenegro</countriesAndTerritories>
+    <geoId>ME</geoId>
+    <countryterritoryCode>MNE</countryterritoryCode>
+    <popData2018>622345</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -80797,6 +82333,18 @@
     <popData2018>622345</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Montserrat</countriesAndTerritories>
+    <geoId>MS</geoId>
+    <countryterritoryCode>MSR</countryterritoryCode>
+    <popData2018>5900</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -81083,6 +82631,18 @@
     <geoId>MS</geoId>
     <countryterritoryCode>MSR</countryterritoryCode>
     <popData2018>5900</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>125</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Morocco</countriesAndTerritories>
+    <geoId>MA</geoId>
+    <countryterritoryCode>MAR</countryterritoryCode>
+    <popData2018>36029138</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -81517,6 +83077,18 @@
     <popData2018>36029138</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Mozambique</countriesAndTerritories>
+    <geoId>MZ</geoId>
+    <countryterritoryCode>MOZ</countryterritoryCode>
+    <popData2018>29495962</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -81793,6 +83365,18 @@
     <popData2018>29495962</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>12</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Myanmar</countriesAndTerritories>
+    <geoId>MM</geoId>
+    <countryterritoryCode>MMR</countryterritoryCode>
+    <popData2018>53708395</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -82067,6 +83651,18 @@
     <geoId>MM</geoId>
     <countryterritoryCode>MMR</countryterritoryCode>
     <popData2018>53708395</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Namibia</countriesAndTerritories>
+    <geoId>NA</geoId>
+    <countryterritoryCode>NAM</countryterritoryCode>
+    <popData2018>2448255</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -82439,6 +84035,18 @@
     <geoId>NA</geoId>
     <countryterritoryCode>NAM</countryterritoryCode>
     <popData2018>2448255</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Nepal</countriesAndTerritories>
+    <geoId>NP</geoId>
+    <countryterritoryCode>NPL</countryterritoryCode>
+    <popData2018>28087871</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -83555,6 +85163,18 @@
     <geoId>NP</geoId>
     <countryterritoryCode>NPL</countryterritoryCode>
     <popData2018>28087871</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>868</cases>
+    <deaths>122</deaths>
+    <countriesAndTerritories>Netherlands</countriesAndTerritories>
+    <geoId>NL</geoId>
+    <countryterritoryCode>NLD</countryterritoryCode>
+    <popData2018>17231017</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -84829,6 +86449,18 @@
     <popData2018>17231017</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>New_Caledonia</countriesAndTerritories>
+    <geoId>NC</geoId>
+    <countryterritoryCode>NCL</countryterritoryCode>
+    <popData2018>284060</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -85127,6 +86759,18 @@
     <geoId>NC</geoId>
     <countryterritoryCode>NCL</countryterritoryCode>
     <popData2018>284060</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>6</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>New_Zealand</countriesAndTerritories>
+    <geoId>NZ</geoId>
+    <countryterritoryCode>NZL</countryterritoryCode>
+    <popData2018>4885500</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -86293,6 +87937,18 @@
     <popData2018>4885500</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Nicaragua</countriesAndTerritories>
+    <geoId>NI</geoId>
+    <countryterritoryCode>NIC</countryterritoryCode>
+    <popData2018>6465513</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -86617,6 +88273,18 @@
     <popData2018>6465513</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>22</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Niger</countriesAndTerritories>
+    <geoId>NE</geoId>
+    <countryterritoryCode>NER</countryterritoryCode>
+    <popData2018>22442948</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -86915,6 +88583,18 @@
     <geoId>NE</geoId>
     <countryterritoryCode>NER</countryterritoryCode>
     <popData2018>22442948</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>30</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Nigeria</countriesAndTerritories>
+    <geoId>NG</geoId>
+    <countryterritoryCode>NGA</countryterritoryCode>
+    <popData2018>195874740</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -88055,6 +89735,18 @@
     <geoId>NG</geoId>
     <countryterritoryCode>NGA</countryterritoryCode>
     <popData2018>195874740</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>54</cases>
+    <deaths>6</deaths>
+    <countriesAndTerritories>North_Macedonia</countriesAndTerritories>
+    <geoId>MK</geoId>
+    <countryterritoryCode>MKD</countryterritoryCode>
+    <popData2018>2082958</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -89221,6 +90913,18 @@
     <popData2018>2082958</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Northern_Mariana_Islands</countriesAndTerritories>
+    <geoId>MP</geoId>
+    <countryterritoryCode>MNP</countryterritoryCode>
+    <popData2018>56882</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -89399,6 +91103,18 @@
     <geoId>MP</geoId>
     <countryterritoryCode>MNP</countryterritoryCode>
     <popData2018>56882</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>78</cases>
+    <deaths>13</deaths>
+    <countriesAndTerritories>Norway</countriesAndTerritories>
+    <geoId>NO</geoId>
+    <countryterritoryCode>NOR</countryterritoryCode>
+    <popData2018>5314336</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -90673,6 +92389,18 @@
     <popData2018>5314336</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>97</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Oman</countriesAndTerritories>
+    <geoId>OM</geoId>
+    <countryterritoryCode>OMN</countryterritoryCode>
+    <popData2018>4829483</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -91871,6 +93599,18 @@
     <geoId>OM</geoId>
     <countryterritoryCode>OMN</countryterritoryCode>
     <popData2018>4829483</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>272</cases>
+    <deaths>11</deaths>
+    <countriesAndTerritories>Pakistan</countriesAndTerritories>
+    <geoId>PK</geoId>
+    <countryterritoryCode>PAK</countryterritoryCode>
+    <popData2018>212215030</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -93085,6 +94825,18 @@
     <popData2018>212215030</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>19</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Palestine</countriesAndTerritories>
+    <geoId>PS</geoId>
+    <countryterritoryCode>PSE</countryterritoryCode>
+    <popData2018>4569087</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -93529,6 +95281,18 @@
     <popData2018>4569087</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>102</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Panama</countriesAndTerritories>
+    <geoId>PA</geoId>
+    <countryterritoryCode>PAN</countryterritoryCode>
+    <popData2018>4176873</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -93961,6 +95725,18 @@
     <popData2018>4176873</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Papua_New_Guinea</countriesAndTerritories>
+    <geoId>PG</geoId>
+    <countryterritoryCode>PNG</countryterritoryCode>
+    <popData2018>8606316</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -94259,6 +96035,18 @@
     <geoId>PG</geoId>
     <countryterritoryCode>PNG</countryterritoryCode>
     <popData2018>8606316</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Paraguay</countriesAndTerritories>
+    <geoId>PY</geoId>
+    <countryterritoryCode>PRY</countryterritoryCode>
+    <popData2018>6956071</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -94667,6 +96455,18 @@
     <geoId>PY</geoId>
     <countryterritoryCode>PRY</countryterritoryCode>
     <popData2018>6956071</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2784</cases>
+    <deaths>37</deaths>
+    <countriesAndTerritories>Peru</countriesAndTerritories>
+    <geoId>PE</geoId>
+    <countryterritoryCode>PER</countryterritoryCode>
+    <popData2018>31989256</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -95123,6 +96923,18 @@
     <geoId>PE</geoId>
     <countryterritoryCode>PER</countryterritoryCode>
     <popData2018>31989256</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>291</cases>
+    <deaths>20</deaths>
+    <countriesAndTerritories>Philippines</countriesAndTerritories>
+    <geoId>PH</geoId>
+    <countryterritoryCode>PHL</countryterritoryCode>
+    <popData2018>106651922</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -96349,6 +98161,18 @@
     <popData2018>106651922</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>268</cases>
+    <deaths>18</deaths>
+    <countriesAndTerritories>Poland</countriesAndTerritories>
+    <geoId>PL</geoId>
+    <countryterritoryCode>POL</countryterritoryCode>
+    <popData2018>37978548</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -96827,6 +98651,18 @@
     <geoId>PL</geoId>
     <countryterritoryCode>POL</countryterritoryCode>
     <popData2018>37978548</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>514</cases>
+    <deaths>32</deaths>
+    <countriesAndTerritories>Portugal</countriesAndTerritories>
+    <geoId>PT</geoId>
+    <countryterritoryCode>PRT</countryterritoryCode>
+    <popData2018>10281762</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -97345,6 +99181,18 @@
     <popData2018>10281762</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>20</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Puerto_Rico</countriesAndTerritories>
+    <geoId>PR</geoId>
+    <countryterritoryCode>PRI</countryterritoryCode>
+    <popData2018>3195153</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -97559,6 +99407,18 @@
     <geoId>PR</geoId>
     <countryterritoryCode>PRI</countryterritoryCode>
     <popData2018>3195153</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>197</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Qatar</countriesAndTerritories>
+    <geoId>QA</geoId>
+    <countryterritoryCode>QAT</countryterritoryCode>
+    <popData2018>2781677</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -98783,6 +100643,18 @@
     <geoId>QA</geoId>
     <countryterritoryCode>QAT</countryterritoryCode>
     <popData2018>2781677</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>246</cases>
+    <deaths>26</deaths>
+    <countriesAndTerritories>Romania</countriesAndTerritories>
+    <geoId>RO</geoId>
+    <countryterritoryCode>ROU</countryterritoryCode>
+    <popData2018>19473936</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -100033,6 +101905,18 @@
     <popData2018>19473936</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2774</cases>
+    <deaths>22</deaths>
+    <countriesAndTerritories>Russia</countriesAndTerritories>
+    <geoId>RU</geoId>
+    <countryterritoryCode>RUS</countryterritoryCode>
+    <popData2018>144478050</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -101245,6 +103129,18 @@
     <popData2018>144478050</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>7</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Rwanda</countriesAndTerritories>
+    <geoId>RW</geoId>
+    <countryterritoryCode>RWA</countryterritoryCode>
+    <popData2018>12301939</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -101617,6 +103513,18 @@
     <popData2018>12301939</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Saint_Kitts_and_Nevis</countriesAndTerritories>
+    <geoId>KN</geoId>
+    <countryterritoryCode>KNA</countryterritoryCode>
+    <popData2018>52441</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -101855,6 +103763,18 @@
     <geoId>KN</geoId>
     <countryterritoryCode>KNA</countryterritoryCode>
     <popData2018>52441</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Saint_Lucia</countriesAndTerritories>
+    <geoId>LC</geoId>
+    <countryterritoryCode>LCA</countryterritoryCode>
+    <popData2018>181889</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -102229,6 +104149,18 @@
     <popData2018>181889</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Saint_Vincent_and_the_Grenadines</countriesAndTerritories>
+    <geoId>VC</geoId>
+    <countryterritoryCode>VCT</countryterritoryCode>
+    <popData2018>110210</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -102491,6 +104423,18 @@
     <geoId>VC</geoId>
     <countryterritoryCode>VCT</countryterritoryCode>
     <popData2018>110210</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>16</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>San_Marino</countriesAndTerritories>
+    <geoId>SM</geoId>
+    <countryterritoryCode>SMR</countryterritoryCode>
+    <popData2018>33785</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -103753,6 +105697,18 @@
     <popData2018>33785</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Sao_Tome_and_Principe</countriesAndTerritories>
+    <geoId>ST</geoId>
+    <countryterritoryCode>STP</countryterritoryCode>
+    <popData2018>211028</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -103823,6 +105779,18 @@
     <geoId>ST</geoId>
     <countryterritoryCode>STP</countryterritoryCode>
     <popData2018>211028</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>435</cases>
+    <deaths>8</deaths>
+    <countriesAndTerritories>Saudi_Arabia</countriesAndTerritories>
+    <geoId>SA</geoId>
+    <countryterritoryCode>SAU</countryterritoryCode>
+    <popData2018>33699947</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -104305,6 +106273,18 @@
     <popData2018>33699947</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>8</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Senegal</countriesAndTerritories>
+    <geoId>SN</geoId>
+    <countryterritoryCode>SEN</countryterritoryCode>
+    <popData2018>15854360</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -104735,6 +106715,18 @@
     <geoId>SN</geoId>
     <countryterritoryCode>SEN</countryterritoryCode>
     <popData2018>15854360</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>424</cases>
+    <deaths>4</deaths>
+    <countriesAndTerritories>Serbia</countriesAndTerritories>
+    <geoId>RS</geoId>
+    <countryterritoryCode>SRB</countryterritoryCode>
+    <popData2018>6982084</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -105169,6 +107161,18 @@
     <popData2018>6982084</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Seychelles</countriesAndTerritories>
+    <geoId>SC</geoId>
+    <countryterritoryCode>SYC</countryterritoryCode>
+    <popData2018>96762</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -105541,6 +107545,18 @@
     <popData2018>96762</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Sierra_Leone</countriesAndTerritories>
+    <geoId>SL</geoId>
+    <countryterritoryCode>SLE</countryterritoryCode>
+    <popData2018>7650154</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -105707,6 +107723,18 @@
     <geoId>SL</geoId>
     <countryterritoryCode>SLE</countryterritoryCode>
     <popData2018>7650154</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>334</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Singapore</countriesAndTerritories>
+    <geoId>SG</geoId>
+    <countryterritoryCode>SGP</countryterritoryCode>
+    <popData2018>5638676</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -106981,6 +109009,18 @@
     <popData2018>5638676</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Sint_Maarten</countriesAndTerritories>
+    <geoId>SX</geoId>
+    <countryterritoryCode>SXM</countryterritoryCode>
+    <popData2018>41486</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -107219,6 +109259,18 @@
     <geoId>SX</geoId>
     <countryterritoryCode>SXM</countryterritoryCode>
     <popData2018>41486</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>66</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Slovakia</countriesAndTerritories>
+    <geoId>SK</geoId>
+    <countryterritoryCode>SVK</countryterritoryCode>
+    <popData2018>5447011</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -107675,6 +109727,18 @@
     <geoId>SK</geoId>
     <countryterritoryCode>SVK</countryterritoryCode>
     <popData2018>5447011</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>8</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Slovenia</countriesAndTerritories>
+    <geoId>SI</geoId>
+    <countryterritoryCode>SVN</countryterritoryCode>
+    <popData2018>2067372</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -108157,6 +110221,18 @@
     <popData2018>2067372</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>35</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Somalia</countriesAndTerritories>
+    <geoId>SO</geoId>
+    <countryterritoryCode>SOM</countryterritoryCode>
+    <popData2018>15008154</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -108503,6 +110579,18 @@
     <geoId>SO</geoId>
     <countryterritoryCode>SOM</countryterritoryCode>
     <popData2018>15008154</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>143</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>South_Africa</countriesAndTerritories>
+    <geoId>ZA</geoId>
+    <countryterritoryCode>ZAF</countryterritoryCode>
+    <popData2018>57779622</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -108959,6 +111047,18 @@
     <geoId>ZA</geoId>
     <countryterritoryCode>ZAF</countryterritoryCode>
     <popData2018>57779622</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>27</cases>
+    <deaths>3</deaths>
+    <countriesAndTerritories>South_Korea</countriesAndTerritories>
+    <geoId>KR</geoId>
+    <countryterritoryCode>KOR</countryterritoryCode>
+    <popData2018>51635256</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -110233,6 +112333,18 @@
     <popData2018>51635256</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>South_Sudan</countriesAndTerritories>
+    <geoId>SS</geoId>
+    <countryterritoryCode>SSD</countryterritoryCode>
+    <popData2018>10975920</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -110339,6 +112451,18 @@
     <geoId>SS</geoId>
     <countryterritoryCode>SSD</countryterritoryCode>
     <popData2018>10975920</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>3045</cases>
+    <deaths>567</deaths>
+    <countriesAndTerritories>Spain</countriesAndTerritories>
+    <geoId>ES</geoId>
+    <countryterritoryCode>ESP</countryterritoryCode>
+    <popData2018>46723749</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -111613,6 +113737,18 @@
     <popData2018>46723749</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>15</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Sri_Lanka</countriesAndTerritories>
+    <geoId>LK</geoId>
+    <countryterritoryCode>LKA</countryterritoryCode>
+    <popData2018>21670000</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -112777,6 +114913,18 @@
     <popData2018>21670000</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>3</cases>
+    <deaths>1</deaths>
+    <countriesAndTerritories>Sudan</countriesAndTerritories>
+    <geoId>SD</geoId>
+    <countryterritoryCode>SDN</countryterritoryCode>
+    <popData2018>41801533</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -113161,6 +115309,18 @@
     <popData2018>41801533</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Suriname</countriesAndTerritories>
+    <geoId>SR</geoId>
+    <countryterritoryCode>SUR</countryterritoryCode>
+    <popData2018>575991</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -113471,6 +115631,18 @@
     <geoId>SR</geoId>
     <countryterritoryCode>SUR</countryterritoryCode>
     <popData2018>575991</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>497</cases>
+    <deaths>114</deaths>
+    <countriesAndTerritories>Sweden</countriesAndTerritories>
+    <geoId>SE</geoId>
+    <countryterritoryCode>SWE</countryterritoryCode>
+    <popData2018>10183175</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -114745,6 +116917,18 @@
     <popData2018>10183175</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>254</cases>
+    <deaths>42</deaths>
+    <countriesAndTerritories>Switzerland</countriesAndTerritories>
+    <geoId>CH</geoId>
+    <countryterritoryCode>CHE</countryterritoryCode>
+    <popData2018>8516543</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -116017,6 +118201,18 @@
     <popData2018>8516543</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>4</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Syria</countriesAndTerritories>
+    <geoId>SY</geoId>
+    <countryterritoryCode>SYR</countryterritoryCode>
+    <popData2018>16906283</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -116291,6 +118487,18 @@
     <geoId>SY</geoId>
     <countryterritoryCode>SYR</countryterritoryCode>
     <popData2018>16906283</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Taiwan</countriesAndTerritories>
+    <geoId>TW</geoId>
+    <countryterritoryCode>TWN</countryterritoryCode>
+    <popData2018>23780452</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -117541,6 +119749,18 @@
     <popData2018>23780452</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>30</cases>
+    <deaths>2</deaths>
+    <countriesAndTerritories>Thailand</countriesAndTerritories>
+    <geoId>TH</geoId>
+    <countryterritoryCode>THA</countryterritoryCode>
+    <popData2018>69428524</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -118729,6 +120949,18 @@
     <popData2018>69428524</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>2</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Timor_Leste</countriesAndTerritories>
+    <geoId>TL</geoId>
+    <countryterritoryCode>TLS</countryterritoryCode>
+    <popData2018>1267972</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -119015,6 +121247,18 @@
     <geoId>TL</geoId>
     <countryterritoryCode>TLS</countryterritoryCode>
     <popData2018>1267972</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Togo</countriesAndTerritories>
+    <geoId>TG</geoId>
+    <countryterritoryCode>TGO</countryterritoryCode>
+    <popData2018>7889094</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -119399,6 +121643,18 @@
     <geoId>TG</geoId>
     <countryterritoryCode>TGO</countryterritoryCode>
     <popData2018>7889094</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Trinidad_and_Tobago</countriesAndTerritories>
+    <geoId>TT</geoId>
+    <countryterritoryCode>TTO</countryterritoryCode>
+    <popData2018>1389858</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -119795,6 +122051,18 @@
     <geoId>TT</geoId>
     <countryterritoryCode>TTO</countryterritoryCode>
     <popData2018>1389858</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>21</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Tunisia</countriesAndTerritories>
+    <geoId>TN</geoId>
+    <countryterritoryCode>TUN</countryterritoryCode>
+    <popData2018>11565204</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -120241,6 +122509,18 @@
     <popData2018>11565204</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>4062</cases>
+    <deaths>107</deaths>
+    <countriesAndTerritories>Turkey</countriesAndTerritories>
+    <geoId>TR</geoId>
+    <countryterritoryCode>TUR</countryterritoryCode>
+    <popData2018>82319724</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -120625,6 +122905,18 @@
     <popData2018>82319724</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Turks_and_Caicos_islands</countriesAndTerritories>
+    <geoId>TC</geoId>
+    <countryterritoryCode>TCA</countryterritoryCode>
+    <popData2018>31458</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -120875,6 +123167,18 @@
     <geoId>TC</geoId>
     <countryterritoryCode>TCA</countryterritoryCode>
     <popData2018>31458</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>1</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Uganda</countriesAndTerritories>
+    <geoId>UG</geoId>
+    <countryterritoryCode>UGA</countryterritoryCode>
+    <popData2018>42723139</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -121163,6 +123467,18 @@
     <geoId>UG</geoId>
     <countryterritoryCode>UGA</countryterritoryCode>
     <popData2018>42723139</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>270</cases>
+    <deaths>5</deaths>
+    <countriesAndTerritories>Ukraine</countriesAndTerritories>
+    <geoId>UA</geoId>
+    <countryterritoryCode>UKR</countryterritoryCode>
+    <popData2018>44622516</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -121547,6 +123863,18 @@
     <geoId>UA</geoId>
     <countryterritoryCode>UKR</countryterritoryCode>
     <popData2018>44622516</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>412</cases>
+    <deaths>3</deaths>
+    <countriesAndTerritories>United_Arab_Emirates</countriesAndTerritories>
+    <geoId>AE</geoId>
+    <countryterritoryCode>ARE</countryterritoryCode>
+    <popData2018>9630959</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -122747,6 +125075,18 @@
     <geoId>AE</geoId>
     <countryterritoryCode>ARE</countryterritoryCode>
     <popData2018>9630959</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>5252</cases>
+    <deaths>778</deaths>
+    <countriesAndTerritories>United_Kingdom</countriesAndTerritories>
+    <geoId>UK</geoId>
+    <countryterritoryCode>GBR</countryterritoryCode>
+    <popData2018>66488991</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -124021,6 +126361,18 @@
     <popData2018>66488991</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>7</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>United_Republic_of_Tanzania</countriesAndTerritories>
+    <geoId>TZ</geoId>
+    <countryterritoryCode>TZA</countryterritoryCode>
+    <popData2018>56318348</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -124367,6 +126719,18 @@
     <geoId>TZ</geoId>
     <countryterritoryCode>TZA</countryterritoryCode>
     <popData2018>56318348</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>26922</cases>
+    <deaths>2408</deaths>
+    <countriesAndTerritories>United_States_of_America</countriesAndTerritories>
+    <geoId>US</geoId>
+    <countryterritoryCode>USA</countryterritoryCode>
+    <popData2018>327167434</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -125641,6 +128005,18 @@
     <popData2018>327167434</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>United_States_Virgin_Islands</countriesAndTerritories>
+    <geoId>VI</geoId>
+    <countryterritoryCode>VIR</countryterritoryCode>
+    <popData2018>106977</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -125891,6 +128267,18 @@
     <geoId>VI</geoId>
     <countryterritoryCode>VIR</countryterritoryCode>
     <popData2018>106977</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>12</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Uruguay</countriesAndTerritories>
+    <geoId>UY</geoId>
+    <countryterritoryCode>URY</countryterritoryCode>
+    <popData2018>3449299</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -126265,6 +128653,18 @@
     <popData2018>3449299</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>167</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Uzbekistan</countriesAndTerritories>
+    <geoId>UZ</geoId>
+    <countryterritoryCode>UZB</countryterritoryCode>
+    <popData2018>32955400</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -126623,6 +129023,18 @@
     <geoId>UZ</geoId>
     <countryterritoryCode>UZB</countryterritoryCode>
     <popData2018>32955400</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>4</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Venezuela</countriesAndTerritories>
+    <geoId>VE</geoId>
+    <countryterritoryCode>VEN</countryterritoryCode>
+    <popData2018>28870195</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -126995,6 +129407,18 @@
     <geoId>VE</geoId>
     <countryterritoryCode>VEN</countryterritoryCode>
     <popData2018>28870195</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>9</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Vietnam</countriesAndTerritories>
+    <geoId>VN</geoId>
+    <countryterritoryCode>VNM</countryterritoryCode>
+    <popData2018>95540395</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -128221,6 +130645,18 @@
     <popData2018>95540395</popData2018>
   </record>
   <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Yemen</countriesAndTerritories>
+    <geoId>YE</geoId>
+    <countryterritoryCode>YEM</countryterritoryCode>
+    <popData2018>28498687</popData2018>
+  </record>
+  <record>
     <dateRep>14/04/2020</dateRep>
     <day>14</day>
     <month>4</month>
@@ -128279,6 +130715,18 @@
     <geoId>YE</geoId>
     <countryterritoryCode>YEM</countryterritoryCode>
     <popData2018>28498687</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Zambia</countriesAndTerritories>
+    <geoId>ZM</geoId>
+    <countryterritoryCode>ZMB</countryterritoryCode>
+    <popData2018>17351822</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
@@ -128603,6 +131051,18 @@
     <geoId>ZM</geoId>
     <countryterritoryCode>ZMB</countryterritoryCode>
     <popData2018>17351822</popData2018>
+  </record>
+  <record>
+    <dateRep>15/04/2020</dateRep>
+    <day>15</day>
+    <month>4</month>
+    <year>2020</year>
+    <cases>0</cases>
+    <deaths>0</deaths>
+    <countriesAndTerritories>Zimbabwe</countriesAndTerritories>
+    <geoId>ZW</geoId>
+    <countryterritoryCode>ZWE</countryterritoryCode>
+    <popData2018>14439018</popData2018>
   </record>
   <record>
     <dateRep>14/04/2020</dateRep>
